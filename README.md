@@ -7,7 +7,7 @@ Hello!~ I am a graphic and motion designer pursuing a Bachelor’s in Visual Com
 
 ## 📎 Links
 [![My Website](https://img.shields.io/badge/MY%20WEBSITE-F33A6A
-)](duacheel.netlify.app) [![Behance](https://img.shields.io/badge/BEHANCE-%230CAFFF
+)](https://duacheel.netlify.app/) [![Behance](https://img.shields.io/badge/BEHANCE-%230CAFFF
 )](https://www.behance.net/duacheelor2)
 
 
